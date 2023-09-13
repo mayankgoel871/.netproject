@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\mayankgoel\mayank-goel\MVC-Assignment\Nagarro.BookReading.Web\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>False|2023-04-24T05:14:25.7697303Z;False|2023-04-24T10:43:57.9960610+05:30;False|2023-04-24T10:43:29.8325255+05:30;False|2023-04-24T10:39:54.3514787+05:30;False|2023-04-24T10:37:15.2829562+05:30;True|2023-04-24T08:19:05.2368556+05:30;</History>
+  </PropertyGroup>
+</Project>

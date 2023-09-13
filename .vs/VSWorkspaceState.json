@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Nagarro.BookReading.Infrastructure",
+    "\\Nagarro.BookReading.Infrastructure\\Data",
+    "\\Nagarro.BookReading.Infrastructure\\Repository",
+    "\\Nagarro.BookReading.Web",
+    "\\Nagarro.BookReading.Web\\Properties",
+    "\\Nagarro.BookReading.Web\\Properties\\ServiceDependencies",
+    "\\Nagarro.BookReading.Web\\Properties\\ServiceDependencies\\NagarroBookReadingWeb20210129161305 - Web Deploy",
+    "\\Nagarro.BookReading.Web\\Views",
+    "\\Nagarro.BookReading.Web\\Views\\Event"
+  ],
+  "SelectedNode": "\\Nagarro.BookReading.Infrastructure\\Repository\\AccountRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
